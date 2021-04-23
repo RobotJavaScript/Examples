@@ -1,5 +1,5 @@
 # Examples
-Example Robot JavaScript Code
+Example Robot JavaScript Code for the EV3 robot platform.  The RobotJavaScript compiler runs in Windows10 and compiles JavaScript code directly into EV3 bytecodes.
 
 Website: https://RobotJavaScript.com
 
